@@ -19,4 +19,14 @@ the admin can add a meal by filling out its information, delete it by the id, cr
 Also, any previous information about the meal or the package can be updated.
 Admins can review orders by clicking on the display order Button, as well as review customer complaints and respond to them
 
+
+
+Credits:
+Shahad Alshammary
+Nouf Alghamdi
+Aseel Alghamdi
+Zahra Alharz
+Bayan Alhumaidan
+Hind Alzahrani
+
 I hope you enjoy it ❤
