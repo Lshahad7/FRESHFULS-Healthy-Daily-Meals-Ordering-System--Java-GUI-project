@@ -1,6 +1,7 @@
 # FreshFuls-Healthy-Daily-Meals
 FreshFuls is healthy daily meals ordering system with 2 type of user, admin and customer. This system will allows customers to create an account, order meals, and track orders, as well as an admin to manage the flow of this system
 
+
 Customer interfaces:
 
 For Customers interfaces, there is a home page that will be displayed when the user runs the program, where the new user can create an account or log in to their account. 
@@ -9,6 +10,7 @@ Once the user signed up that means that the user is customer because the admins 
 A menu button directs users to a page where they can specify their preferences (packages, meals). a meals button directs users to a menu page where all the major meals are displayed as buttons. represent the available dishes in greater detail. If the user clicked the packages button, the page with all of the available packages' details will be displayed, the user can start ordering by clicking on add button and fill required information then order button.
 The Body Mass Calculator button calculate the customer’s body mass.
 if you faced any difficulties while dealing with us, have you faced any issues with delays? Or any problem regards to orders? The right mouse button will be on the customer service button and your problem will be sent to the admin. You can also look at your previous orders by clicking the "Last Orders" button.
+
 
 Admin interfaces:
 
